@@ -1,0 +1,7 @@
+# Ignorar carpeta de referencias
+/refes/
+
+# Ignorar artefactos generados por agentes
+/agents/
+/skills/
+/agent*/
