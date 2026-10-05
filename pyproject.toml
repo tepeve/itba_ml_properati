@@ -1,0 +1,21 @@
+[project]
+name = "properati"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+	"pandas",
+	"scikit-learn",
+	"xgboost",
+	"numpy",
+	"leaflet",
+	"seaborn",
+	"pymc",
+	"statsmodels",
+	"jupyterlab",
+	"ipykernel",
+	"geopandas",
+	"google",
+	"unicode"
+]
