@@ -1,5 +1,6 @@
 # Ignorar carpeta de referencias
 /refes/
+/data/
 
 # Ignorar artefactos generados por agentes
 /agents/
