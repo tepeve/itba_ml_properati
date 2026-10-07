@@ -17,5 +17,6 @@ dependencies = [
 	"ipykernel",
 	"geopandas",
 	"google",
-	"unicode"
+	"unicode",
+	"gdown"
 ]
