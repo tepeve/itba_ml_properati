@@ -18,5 +18,7 @@ dependencies = [
 	"geopandas",
 	"google",
 	"unicode",
-	"gdown"
+	"gdown",
+	"h3",
+	"pyarrow"
 ]
